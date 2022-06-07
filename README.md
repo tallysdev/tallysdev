@@ -6,7 +6,7 @@
 <h2> ⚙️ &nbsp;GitHub Analytics </h2>
 <div>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tallys-Aureliano&show_icons=true&theme=codeSTACKr"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallys-Aureliano&layout=compact&theme=codeSTACKr"/>
+ 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallys-Aureliano&layout=compact&theme=codeSTACKr"/>
 </div>
 
 <h2> 🤸 Where to find me </h2>
