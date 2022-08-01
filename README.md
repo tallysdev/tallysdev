@@ -1,6 +1,6 @@
 <h2> 😃 Hello</h2>
 
-<h2> Fala parceiro(a) tudo bom? <br> Eu sou Tallys Aureliano, seja bem-vindo ao meu perfil. <br>Téc. Informática pelo IFRN, atualemnte cursando Sistemas de informação pela UFRN. <br> Full Stack Jr. </h2>
+<h2> Fala parceiro(a) tudo bom? <br> Eu sou Tallys Aureliano, seja bem-vindo ao meu perfil. <br>Téc. Informática pelo IFRN, atualmente cursando Sistemas de informação pela UFRN. <br> Full Stack Jr. </h2>
 
 
 <h2> ⚙️ &nbsp;GitHub Analytics </h2>
