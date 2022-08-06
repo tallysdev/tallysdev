@@ -23,7 +23,8 @@
 	<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
 	<img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 	<img align="center" alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-	<img align="center" alt="Mysql" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+	<img align="center" alt="Postgresql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+          
 </div>
 
 <h2>🚀 Technologies and Tools i use or have used:</h2>
@@ -31,13 +32,14 @@
 	<img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
 	<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-	<img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
 	<img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+	<img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"">
 	<img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" >
 	<img align="center" alt="PHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
 	<img align="center" alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-	<img align="center" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+	<img align="center" alt="Laravel" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
 	<img align="center" alt="Mysql" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+	<img align="center" alt="Postegresql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 	<img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 	<img align="center" alt="git" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
 
