@@ -1,6 +1,5 @@
-<h2> 😃 Hello</h2>
 
-<h2> Speak partner, how are you? <br> I'm Tallys Aureliano, welcome to my profile. <br>Tech. Informatics at IFRN, currently studying Information Systems at UFRN. <br> Full Stack Jr. </h2>
+![Tallys Dev](https://user-images.githubusercontent.com/91434644/184407543-c19531af-caf6-4bf4-a0ce-082975b9cfe6.gif)
 
 
 <h2> ⚙️ &nbsp;GitHub Analytics </h2>
