@@ -15,7 +15,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tallys_aureliano?utm_medium=copy_link)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tallysau?is_from_webapp=1&sender_device=pc)
 
-<h2>🚀 Technologies in focus:</h2>
+## <img src="https://media.giphy.com/media/daUNvsWuU3s8WeLnq3/giphy.gif" width="30px" height="30px"> Skills
+
   <div>
 	<img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
