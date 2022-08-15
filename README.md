@@ -1,6 +1,6 @@
 [![Tallys Dev](https://user-images.githubusercontent.com/91434644/184407543-c19531af-caf6-4bf4-a0ce-082975b9cfe6.gif)](https://www.canva.com/design/DAFI-AiIj00/BIDsNZV5YCQy-2bP6AAHjA/view?utm_content=DAFI-AiIj00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!;I+am+Tallys+Aureliano.;I+was+born+in+2003+and+I+live+in+São+Fernando/RN.;I+am+currently+studying+BSI+at+UFRN.;And+I'm+venturing+into+the+Back-End.;Developer+in+Development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!;I+am+Tallys+Aureliano.;I+was+born+in+2003+and+i+live+in+São+Fernando/RN.;I+am+currently+studying+BSI+at+UFRN.;And+I'm+venturing+into+the+Back-End.;Developer+in+Development.)](https://git.io/typing-svg)
 
 <h2><img src="https://media.giphy.com/media/jK1gJ1K9MBpB4ebCsj/giphy.gif" width="30px" heigth="30px">GitHub Analytics </h2>
 <div>
