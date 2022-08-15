@@ -2,8 +2,8 @@
 
 <h2><img src="https://media.giphy.com/media/jK1gJ1K9MBpB4ebCsj/giphy.gif" width="30px" heigth="30px">GitHub Analytics </h2>
 <div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tallys-Aureliano&show_icons=true&theme=great-gatsby"/>
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallys-Aureliano&layout=compact&theme=great-gatsby"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tallys-Aureliano&show_icons=true&theme=vision-friendly-dark"/>
+ 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallys-Aureliano&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Where to find me:</h2>
