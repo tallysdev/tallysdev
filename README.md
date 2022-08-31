@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!;I+am+Tallys+Aureliano.;I+was+born+in+2003+and+i+live+in+São+Fernando/RN.;I+am+currently+studying+BSI+at+UFRN.;And+I'm+venturing+into+the+Back-End.;Developer+in+Development.)](https://git.io/typing-svg)
 
 <h2><img src="https://media.giphy.com/media/jK1gJ1K9MBpB4ebCsj/giphy.gif" width="30px" heigth="30px">GitHub Analytics </h2>
-<div align="center">
+<div>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tallys-Aureliano&show_icons=true&theme=vision-friendly-dark"/>
-	 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallys-Aureliano&layout=compact&theme=vision-friendly-dark"/>
-
+<!-- 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallys-Aureliano&layout=compact&theme=vision-friendly-dark"/>
+ -->
 </div>
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Where to find me:</h2>
