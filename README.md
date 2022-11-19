@@ -25,25 +25,62 @@
 [![Tiktok](https://img.shields.io/badge/TikTok-FDFEFE?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@tallysau?is_from_webapp=1&sender_device=pc)
 
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
-
-![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![Java](https://img.shields.io/badge/java-%23ED0000.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=CF0677&logo=PHP&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/badge/python-110B90?style=for-the-badge&logo=python&logoColor=BCBF00)
+<details>
+<summary>Languages, Dev Tools & More:</summary>
 <br>
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+<ul><li>
+<details>
+<summary>Languages</summary>
 <br>
-![Laravel](https://img.shields.io/badge/laravel-%23E60FF8.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-04B405?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/badge/java-%23ED0000.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=CF0677&logo=PHP&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/badge/python-110B90?style=for-the-badge&logo=python&logoColor=BCBF00">
 <br>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+</details></li>
+<li> 
+<details>
+<summary>Frontend Development</summary>
 <br>
-![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=)
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
+</details></li>
+<li>  
+<details>
+<summary>Backend Development</summary>
+<br>
+<img src="https://img.shields.io/badge/laravel-%23E60FF8.svg?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-04B405?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+</details></li>
+<li>  
+<details>
+<!--
+<summary>Mobile Development</summary>
+<img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</details></li>
+-->
+<br>
+<li>
+<details>
+<summary>Database</summary>
+<br>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=">
+</details></li>
+<li>
+<details>
+<summary>OTHER</summary>
+<br>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+</details></li></ul>
+</details>
 
 ![Snake animation](https://github.com/Tallys-Aureliano/Tallys-Aureliano/blob/output/github-contribution-grid-snake.svg)
