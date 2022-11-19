@@ -1,18 +1,19 @@
-[![Tallys Dev](https://user-images.githubusercontent.com/91434644/184407543-c19531af-caf6-4bf4-a0ce-082975b9cfe6.gif)](https://www.canva.com/design/DAFI-AiIj00/BIDsNZV5YCQy-2bP6AAHjA/view?utm_content=DAFI-AiIj00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<!-- [![Tallys Dev](https://user-images.githubusercontent.com/91434644/184407543-c19531af-caf6-4bf4-a0ce-082975b9cfe6.gif)](https://www.canva.com/design/DAFI-AiIj00/BIDsNZV5YCQy-2bP6AAHjA/view?utm_content=DAFI-AiIj00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) -->
 <br><br>
 <img align="right" src="https://komarev.com/ghpvc/?username=Tallys-Aureliano&color=F1C40F">
 <br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!;I+am+Tallys+Aureliano.;I+was+born+in+2003+and+i+live+in+São+Fernando/RN.;I+am+currently+studying+BSI+at+UFRN.;And+I'm+venturing+into+the+Back-End.;Developer+in+Development.)](https://git.io/typing-svg)
 
 <h2><img src="https://media.giphy.com/media/jK1gJ1K9MBpB4ebCsj/giphy.gif" width="30px" heigth="30px">GitHub Analytics </h2>
-<div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tallys-Aureliano&show_icons=true&theme=vision-friendly-dark"/>
-<!-- 	<a href="https://github.com/anuraghazra/github-readme-stats">
-  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallys-Aureliano&langs_count=9&theme=vision-friendly-dark&hide_border=true&locale=pt-br" 	align="right"/>
-	</a> -->
 
-<!-- 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallys-Aureliano&langs_count=9&layout=compact&theme=vision-friendly-dark"/>
- -->
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tallys-Aureliano&theme=gruvbox&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=gruvbox)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=gruvbox)|
+|---|---|---|
+
+<br>
+
+|![Tallys Stats](https://github-readme-stats.vercel.app/api?username=Tallys-Aureliano&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tallys-Aureliano&theme=gruvbox)|
+|---|---|
+	
 </div>
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Where to find me:</h2>
