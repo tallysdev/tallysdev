@@ -6,7 +6,7 @@
 
 <h2><img src="https://media.giphy.com/media/jK1gJ1K9MBpB4ebCsj/giphy.gif" width="30px" heigth="30px">GitHub Analytics </h2>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tallys-Aureliano&theme=gruvbox&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=gruvbox)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=gruvbox)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tallys-Aureliano&theme=gruvbox&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=gruvbox)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=monokai)|
 |---|---|---|
 
 <br>
