@@ -3,7 +3,9 @@
 <a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=Tallys-Aureliano&label=Profile%20Views&color=2&icon=2&pretty=true" />
 </a>
+
 <br><br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!;I+am+Tallys+Aureliano.;I+was+born+in+2003+and+i+live+in+São+Fernando/RN.;I+am+currently+studying+BSI+at+UFRN.;And+I'm+venturing+into+the+Back-End.;Developer+in+Development.)](https://git.io/typing-svg)
 
 <h2><img src="https://media.giphy.com/media/jK1gJ1K9MBpB4ebCsj/giphy.gif" width="30px" heigth="30px">GitHub Analytics </h2>
