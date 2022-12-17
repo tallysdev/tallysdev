@@ -13,7 +13,7 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tallys-Aureliano&theme=gruvbox&utcOffset=8)
 -->
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=Tallys-Aureliano&theme=gruvbox&hide_border=false)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=gruvbox)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=monokai)|
+|![](https://github-readme-streak-stats.herokuapp.com/?user=Tallys-Aureliano&theme=gruvbox&hide_border=false)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=gruvbox)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=gruvbox)|
 |---|---|---|
 
 <br>
