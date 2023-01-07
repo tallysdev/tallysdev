@@ -63,15 +63,14 @@
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </details></li>
-<li>  
-<details>
+<!-- <li>  
+<details> -->
 <!--
 <summary>Mobile Development</summary>
 <img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </details></li>
 -->
-<br>
 <li>
 <details>
 <summary>Database</summary>
