@@ -92,3 +92,4 @@
 </details></li></ul>
 </details>
 
+![Snake animation](https://github.com/Tallys-Aureliano/Tallys-Aureliano/blob/output/github-contribution-grid-snake.svg)
