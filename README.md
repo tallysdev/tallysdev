@@ -18,7 +18,7 @@
 
 <br>
 
-|![Tallys Stats](https://github-readme-stats.vercel.app/api?username=Tallys-Aureliano&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tallys-Aureliano&theme=gruvbox)|
+|![](https://github-readme-stats.vercel.app/api?username=Tallys-Aureliano&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tallys-Aureliano&theme=gruvbox)|
 |---|---|
 	
 </div>
