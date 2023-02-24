@@ -96,7 +96,7 @@
  
 <h3 align="center">Buy this dev a coffee and earn his friendship ❤☕</h3>
 <div align="center">
-	<a href="https://user-images.githubusercontent.com/91434644/221059430-b6afe0b8-027f-4240-8bc7-b3d2a81eb8af.png">
+	<a href="https://user-images.githubusercontent.com/91434644/221060926-d1e27fa5-1253-41de-a6e6-4367616e094f.png">
 		<img src="https://img.shields.io/badge/pix-tallysdev%40gmail.com-yellow?style=for-the-badge"/>
 	</a>
 	<br>
