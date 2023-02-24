@@ -93,3 +93,17 @@
 
 <!-- ![Snake animation](https://github.com/Tallys-Aureliano/Tallys-Aureliano/blob/output/github-contribution-grid-snake.svg)
  -->
+ 
+<h3 align="center">Buy this dev a coffee and earn his friendship ❤☕</h3>
+<div align="center">
+	<a href="https://user-images.githubusercontent.com/91434644/221059430-b6afe0b8-027f-4240-8bc7-b3d2a81eb8af.png">
+		<img src="https://img.shields.io/badge/pix-tallysdev%40gmail.com-yellow?style=for-the-badge"/>
+	</a>
+	<br>
+	<a href="https://www.paypal.com/donate/?business=SVWY2BZGUSTYS&no_recurring=0&item_name=Buy+this+dev+a+coffee+and+earn+his+friendship&currency_code=USD">
+ 		<img src="https://img.shields.io/badge/PayPal-F1C40F?style=for-the-badge&logo=paypal&logoColor=black"/> 
+	</a>
+	<a href="https://user-images.githubusercontent.com/91434644/221048924-5106131c-56ef-4e8d-bfc3-69b5b4aca5ef.png"> 
+ 		<img src="https://img.shields.io/badge/QR%20Code-PayPal%20Qr%20Code-yellow?style=for-the-badge"/>
+	</a>
+</div>
