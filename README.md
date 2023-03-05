@@ -12,12 +12,12 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tallys-Aureliano&theme=gruvbox&utcOffset=8)
 -->
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=Tallys-Aureliano&theme=gruvbox&hide_border=false)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=gruvbox)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=gruvbox)|
+|![](https://github-readme-streak-stats.herokuapp.com/?user=Tallys-Aureliano&theme=gruvbox&hide_border=true)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=gruvbox)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=gruvbox)|
 |---|---|---|
 
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=Tallys-Aureliano&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tallys-Aureliano&theme=gruvbox)|
+|![](https://github-readme-stats.vercel.app/api?username=Tallys-Aureliano&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&hide=issues)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tallys-Aureliano&theme=gruvbox)|
 |---|---|
 	
 </div>
