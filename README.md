@@ -5,7 +5,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!;I'm+Tallys+Aureliano.;+I+was+born+in+2003+and+I+live+in+São+Fernando/RN.;I+am+currently+studying+Information+Systems+at+UFRN.;I'm+a+Back-End+developer,;+but+I+want+to+venture+into+Full-Stack+and+Mobile.;At+the+university+i+work+and+research...;with+embedded+systems,+IoT,+AI+and+machine+learning...;Thanks+for+reading+this+far!;Keep+swimming...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!;I'm+Tallys+Aureliano.;+I+was+born+in+2003+and+I+live+in+São+Fernando/RN.;I+am+currently+studying+Information+Systems+at+UFRN.;I'm+a+Back-End+developer,;+but+I+want+to+venture+into+Full-Stack+and+Mobile.;At+the+university+i+work+and+research+with...;Embedded+systems,+IoT,+AI+and+machine+learning...;Thanks+for+reading+this+far!;Keep+swimming...)](https://git.io/typing-svg)
 
 <h2><img src="https://media.giphy.com/media/jK1gJ1K9MBpB4ebCsj/giphy.gif" width="30px" heigth="30px">GitHub Analytics </h2>
 
