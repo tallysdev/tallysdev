@@ -4,6 +4,7 @@
 </a>
 
 <br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!;I'm+Tallys+Aureliano.;+I+was+born+in+2003+and+I+live+in+São+Fernando/RN.;I+am+currently+studying+Information+Systems+at+UFRN.;I'm+a+Back-End+developer,;+but+I+want+to+venture+into+Full-Stack+and+Mobile.;At+the+university+i+work+and+research+with...;Embedded+systems,+IoT,+AI+and+machine+learning...;Thanks+for+reading+this+far!;Keep+swimming...)](https://git.io/typing-svg)
 
@@ -90,7 +91,6 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </details></li></ul>
 </details>
