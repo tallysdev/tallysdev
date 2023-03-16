@@ -27,7 +27,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tallys-aureliano-91539821b/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tallysaureliano@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tallys_aureliano?utm_medium=copy_link)
 [![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)](https://profile.codersrank.io/user/tallys-aureliano)
 [![Tiktok](https://img.shields.io/badge/TikTok-FDFEFE?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@tallysau?is_from_webapp=1&sender_device=pc)
 
