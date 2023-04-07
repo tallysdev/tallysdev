@@ -18,7 +18,7 @@
 
 <br>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tallys-Aureliano&theme=gruvbox)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=gruvbox)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tallys-Aureliano&theme=gruvbox)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=gruvbox&exclude=C)|
 |---|---|
 	
 </div>
