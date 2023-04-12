@@ -6,7 +6,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17E1AA&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!;I'm+Tallys+Aureliano.;+I+was+born+in+2003+and+I+live+in+São+Fernando/RN.;I+am+currently+studying+Information+Systems+at+UFRN.;I'm+a+Back-End+developer,;+but+I+want+to+venture+into+Full-Stack+and+Mobile.;At+the+university+i+work+and+research+with...;Embedded+systems,+IoT,+AI+and+machine+learning...;Thanks+for+reading+this+far!;Keep+swimming...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17E1AA&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <p>Hello, welcome to my profile!. I'm Tallys Aureliano, i was born in 2003 and I live in São Fernando/RN. I'm currently studying Information Systems at UFRN. I'm a Back-End developer but I want to venture into Full-Stack and Mobile. At the university i work and research with Embedded systems, IoT, AI and machine learning... Thanks for reading this far! Keep swimming...</p>
 
