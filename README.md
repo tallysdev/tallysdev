@@ -1,4 +1,3 @@
-<!-- [![Tallys Dev](https://user-images.githubusercontent.com/91434644/184407543-c19531af-caf6-4bf4-a0ce-082975b9cfe6.gif)](https://www.canva.com/design/DAFI-AiIj00/BIDsNZV5YCQy-2bP6AAHjA/view?utm_content=DAFI-AiIj00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) -->
 <a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=Tallys-Aureliano&label=Profile%20Views&color=3&icon=2&pretty=true" />
 </a>
@@ -12,17 +11,10 @@
 
 <h2><img src="https://media.giphy.com/media/jK1gJ1K9MBpB4ebCsj/giphy.gif" width="30px" heigth="30px">GitHub Analytics </h2>
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tallys-Aureliano&theme=gruvbox&utcOffset=8)
- -->
-
-|![](https://github-readme-streak-stats.herokuapp.com/?user=Tallys-Aureliano&theme=gotham&hide_border=true)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=gotham)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=gotham&exclude=C)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=gotham)|
 |---|---|
-
 <br>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tallys-Aureliano&theme=gotham)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=gotham&exclude=C)|
-|---|---|
-	
 </div>
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Where to find me:</h2>
@@ -100,12 +92,11 @@
 <!-- ![Snake animation](https://github.com/Tallys-Aureliano/Tallys-Aureliano/blob/output/github-contribution-grid-snake.svg)
  -->
  
-<h3 align="center">Buy this dev a coffee and earn his friendship ❤☕</h3>
-<div align="center">
+<h3>Buy this dev a coffee and earn his friendship ❤☕</h3>
+<div>
 	<a href="https://user-images.githubusercontent.com/91434644/221060926-d1e27fa5-1253-41de-a6e6-4367616e094f.png">
 		<img src="https://img.shields.io/badge/pix-tallysdev%40gmail.com-17E1AA?style=for-the-badge"/>
 	</a>
-	<br>
 	<a href="https://www.paypal.com/donate/?business=SVWY2BZGUSTYS&no_recurring=0&item_name=Buy+this+dev+a+coffee+and+earn+his+friendship&currency_code=USD">
  		<img src="https://img.shields.io/badge/PayPal-17E1AA?style=for-the-badge&logo=paypal&logoColor=black"/> 
 	</a>
