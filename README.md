@@ -1,7 +1,4 @@
-<a href="https://visitcount.itsvg.in">
-  <img align="right" src="https://visitcount.itsvg.in/api?id=Tallys-Aureliano&label=Profile%20Views&color=3&icon=2&pretty=true" />
-</a>
-
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FTallys-Aureliano"><img align="right" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FTallys-Aureliano&label=Daily%20Visits&labelColor=%23ffbf00&countColor=%23000000&labelStyle=upper" /></a>
 <br>
 <br>
 
