@@ -5,14 +5,14 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17E1AA&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFBF00&size=35&right=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <p>Hello, welcome to my profile!. I'm Tallys Aureliano, i was born in 2003 and I live in São Fernando/RN. I'm currently studying Information Systems at UFRN. I'm a Back-End developer but I want to venture into Full-Stack and Mobile. At the university i work and research with Embedded systems, IoT, AI and machine learning... Thanks for reading this far! Keep swimming...</p>
 
 <h2><img src="https://media.giphy.com/media/jK1gJ1K9MBpB4ebCsj/giphy.gif" width="30px" heigth="30px">GitHub Analytics </h2>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=gotham&exclude=C)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=gotham&exclude=C)|
-|---|---|
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tallys-Aureliano&theme=great_gatsby&exclude=C)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tallys-Aureliano&theme=great_gatsby&exclude=C)
 <br>
 
 </div>
@@ -95,12 +95,12 @@
 <h3>Buy this dev a coffee and earn his friendship ❤☕</h3>
 <div>
 	<a href="https://user-images.githubusercontent.com/91434644/221060926-d1e27fa5-1253-41de-a6e6-4367616e094f.png">
-		<img src="https://img.shields.io/badge/pix-tallysdev%40gmail.com-17E1AA?style=for-the-badge"/>
+		<img src="https://img.shields.io/badge/pix-tallysdev%40gmail.com-FFBF00?style=for-the-badge"/>
 	</a>
 	<a href="https://www.paypal.com/donate/?business=SVWY2BZGUSTYS&no_recurring=0&item_name=Buy+this+dev+a+coffee+and+earn+his+friendship&currency_code=USD">
- 		<img src="https://img.shields.io/badge/PayPal-17E1AA?style=for-the-badge&logo=paypal&logoColor=black"/> 
+ 		<img src="https://img.shields.io/badge/PayPal-FFBF00?style=for-the-badge&logo=paypal&logoColor=black"/> 
 	</a>
 	<a href="https://user-images.githubusercontent.com/91434644/221048924-5106131c-56ef-4e8d-bfc3-69b5b4aca5ef.png"> 
- 		<img src="https://img.shields.io/badge/QR%20Code-PayPal%20Qr%20Code-17E1AA?style=for-the-badge"/>
+ 		<img src="https://img.shields.io/badge/QR%20Code-PayPal%20Qr%20Code-FFBF00?style=for-the-badge"/>
 	</a>
 </div>
