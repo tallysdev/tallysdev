@@ -19,7 +19,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tallysdev/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tallysaureliano@outlook.com)
 [![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)](https://profile.codersrank.io/user/tallysdev)
-[![Tiktok](https://img.shields.io/badge/TikTok-FDFEFE?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@tallysau?is_from_webapp=1&sender_device=pc)
 
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
 <details>
